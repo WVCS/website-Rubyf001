@@ -1,18 +1,55 @@
 body{
-  background-color: #8895B3;
+  background-color: #7B886B;
 }
 h1{
   font-size: 300%;
   letter-spacing: 2px;
-  color: #2B3A67;
-  text-decoration: underline;
-  font-family: "Papyrus";
+  color: #3E4536;
+  font-family: "Courier New";
+  float: center;
 }
 p{
-  color: #2B3A67;
-  font-family: "Papyrus";
+  color: #3E4536;
+  font-family: "Courier New";
+  font-size:150%
 }
 img{
   border-style: ridge;
-  border-color: #2B3A67;
+  border-color: #3E4536;
+  float: center;
+}
+li a{
+  float: right;
+  font-family: "Courier New";
+}
+a:link {
+  text-decoration: none;
+}
+a:visited {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+a:active {
+  text-decoration: underline;
+}
+a:link, a:visited {
+  background-color: #525B48;
+  color: black;
+  border: 2px;
+  border-color: #3E4536; 
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+a:hover, a:active {
+  background-color: #3E4536;
+  color: #8895B3;
+  font-family: "Courier New";
+}
+img{
+  height: 10%;
+  width: 50%;
 }
