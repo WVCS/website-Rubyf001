@@ -53,3 +53,115 @@ img{
   height: 50%;
   width: 50%;
 }
+
+
+body{
+  background-color: #8895B3;
+}
+h1{
+  font-size: 300%;
+  letter-spacing: 2px;
+  color: #2B3A67;
+  font-family: "Papyrus";
+  float: center;
+}
+p{
+  color: #2B3A67;
+  font-family: "Papyrus";
+}
+img{
+  border-style: ridge;
+  border-color: #2B3A67;
+  float: center;
+}
+li a{
+  float: right;
+  font-family: "Papyrus";
+}
+a:link {
+  text-decoration: none;
+}
+a:visited {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+a:active {
+  text-decoration: underline;
+}
+a:link, a:visited {
+  background-color: #415376;
+  color: black;
+  border: 2px;
+  border-color: #2B3A67; 
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+a:hover, a:active {
+  background-color: #2B3A67;
+  color: #8895B3;
+  font-family: "Papyrus";
+}
+
+
+body{
+  background-color: #89616B;
+}
+h1{
+  font-size: 300%;
+  letter-spacing: 2px;
+  color: #573841;
+  font-family: "Copperplate";
+  float: center;
+}
+p{
+  color: #573841;
+  font-family: "Copperplate";
+  font-size:150%
+}
+img{
+  border-style: ridge;
+  border-color: #573841;
+  float: center;
+}
+li a{
+  float: right;
+  font-family: "Copperplate";
+}
+a:link {
+  text-decoration: none;
+}
+a:visited {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+a:active {
+  text-decoration: underline;
+}
+a:link, a:visited {
+  background-color: #704852;
+  color: black;
+  border: 2px;
+  border-color: #573841; 
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+a:hover, a:active {
+  background-color: #573841;
+  color: #8895B3;
+  font-family: "Copperplate";
+}
+img{
+  height: 50%;
+  width: 50%;
+}
+href{
+  font-family: "Copperplate";
+}
