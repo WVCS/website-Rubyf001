@@ -13,7 +13,7 @@ p{
   font-family: "Papyrus";
 }
 img{
-  border-style: ridge;
+  border: dashed 5px;
   border-color: #2B3A67;
   float: center;
 }
@@ -47,4 +47,6 @@ a:hover, a:active {
   background-color: #2B3A67;
   color: #8895B3;
   font-family: "Papyrus";
+}
+ul{list-style-type: none;
 }
