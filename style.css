@@ -14,13 +14,14 @@ p{
   font-size:150%
 }
 img{
-  border-style: ridge;
+  border: dashed 5px;
   border-color: #3E4536;
   float: center;
 }
 li a{
   float: right;
   font-family: "Courier New";
+  border: ridge;
 }
 a:link {
   text-decoration: none;
@@ -51,5 +52,7 @@ a:hover, a:active {
 }
 img{
   height: 50%;
-  width: 50%;
+  width: 25%;
+}
+ul{list-style-type: none;
 }
