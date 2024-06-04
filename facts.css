@@ -14,7 +14,7 @@ p{
   font-size:150%
 }
 img{
-  border-style: ridge;
+  border: dashed 5px;
   border-color: #573841;
   float: center;
 }
@@ -55,4 +55,6 @@ img{
 }
 href{
   font-family: "Copperplate";
+}
+ul{list-style-type: none;
 }
