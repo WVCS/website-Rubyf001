@@ -58,3 +58,10 @@ href{
 }
 ul{list-style-type: none;
 }
+h2{
+  font-size: 300%;
+  letter-spacing: 2px;
+  color: #573841;
+  font-family: "Copperplate";
+  float: center;
+}
