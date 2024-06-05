@@ -50,3 +50,10 @@ a:hover, a:active {
 }
 ul{list-style-type: none;
 }
+h2{
+  font-size: 300%;
+  letter-spacing: 2px;
+  color: #2B3A67;
+  font-family: "Papyrus";
+  float: center;
+}
